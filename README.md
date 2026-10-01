@@ -33,6 +33,8 @@ When OpenAI API access is available, the collected events can also be sent to an
 - pywin32
 - OpenAI API
 - Windows PowerShell
+- Windows 11
+- VMware Fusion
 
 ## How It Works
 
@@ -54,4 +56,5 @@ Windows Security Event Log
      Local Monitoring     OpenAI Analysis
                               |
                               v
+                     AI Investigation Report                              v
                      AI Investigation Report
