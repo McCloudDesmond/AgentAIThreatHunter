@@ -1,0 +1,15 @@
+AgentAIThreatHunter — How to Run
+
+1. Open PowerShell as Administrator.
+
+2. Go to the project folder:
+
+cd "C:\Users\Dez\AgenticAIThreatHunter"
+
+3. Run the program:
+
+& "C:\Users\Dez\AppData\Local\Python\bin\python.exe" agentic_ai_hunter.py
+
+If already inside the project folder:
+
+& "C:\Users\Dez\AppData\Local\Python\bin\python.exe" agentic_ai_hunter.py
